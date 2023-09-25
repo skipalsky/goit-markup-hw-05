@@ -661,7 +661,8 @@ background-color: var(--green);
     visibility: hidden;
     pointer-events: none;
   }
-  .is-open {
+  
+  .modal .is-open {
     visibility: visible;
     opacity: 1;
   }
